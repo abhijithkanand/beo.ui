@@ -1,0 +1,16 @@
+
+## Installation
+
+To run this project locally, please follow these steps:
+
+1. Clone the repository
+2. Install the dependencies:
+    npm install
+3. Usage
+Start the development server:
+    npm run dev
+The app will be running at http://localhost:5173.
+
+Open your web browser and visit http://localhost:5173 to access the App.
+
+The app allows you to view a list of users and add new users to the list.
